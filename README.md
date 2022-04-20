@@ -7,9 +7,9 @@
 Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, Machine Learning e Deep Learning.
 
 ## Projetos:
-Lista de projetos em Jupyter Notebook:
 
 * **Análise dos Dados do Airbnb para o Vancouver:** https://bit.ly/3e34Vv1
+- **Web Scraping das atuações e comissões dos Deputados da Câmara dos deputados:** https://bit.ly/3Ojl8i2
 
 ---
 
