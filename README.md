@@ -13,7 +13,7 @@
 
 - **Análise dos Dados do Airbnb para o Vancouver:** https://bit.ly/3e34Vv1
 - **Web Scraping das atuações e comissões dos Deputados da Câmara dos deputados:** https://bit.ly/3Ojl8i2
-- **DBA - Bando de dados da faculdade SENAI-DF** https://bit.ly/3NzxxN9
+- **DBA - Banco de dados da faculdade SENAI-DF** https://bit.ly/3NzxxN9
 
 ---
 
